@@ -1,0 +1,4 @@
+platform :ios, '10.0'
+target 'ExcelDemo' do
+    pod 'libxlsxwriter'
+end
